@@ -1,0 +1,66 @@
+
+#body {
+  
+}
+/*Unknown why this is not flipping to a different font*/
+
+.bg-light {
+background-color: #ffffff!important
+}
+/*Changes background color in navbar to white*/
+
+.nav-link {
+  color: #000000
+}
+/*Changes Contact Us Color scheme to Black*/
+
+.jumbotron {
+  background-image:url(jumbotron.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.entrepreneur {
+text-align: center;
+background-image:url(entrepreneurs.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.container {
+text-align: center;
+}
+
+.bio1 {
+  text-align: left;
+}
+
+.bio2 {
+  text-align: left;
+
+}
+
+.bio3 {
+  text-align: left;
+
+}
+
+.carou {
+  color: black;
+}
+
+.form-group {
+  text-align: left;
+}
+
+
+
+.footer {
+background-color: #0066CC;
+color: white;
+}
+
+.approach {
+  text-align: left;
+}
